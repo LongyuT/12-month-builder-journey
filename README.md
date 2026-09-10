@@ -5,10 +5,10 @@
 ## Day 1：开发环境
 
 - [x] 建立学习仓库
-- [ ] 安装 Python 3.12+
-- [ ] 安装 Visual Studio Code
-- [ ] 配置 Git 身份
-- [ ] 创建首次提交
+- [x] 安装 Python 3.12+
+- [x] 安装 Visual Studio Code
+- [x] 配置 Git 身份
+- [x] 创建首次提交
 
 ## 学习原则
 
